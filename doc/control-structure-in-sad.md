@@ -11,5 +11,10 @@ In SAD, control structures are typically visualized and specified using diagrams
 
 These control structures help in designing the sequence of operations, `decision-making`, and looping mechanisms within the system. 
 
-Here’s a breakdown of common control structures and how they are used in SAD:
+Here’s a breakdown of common control structures and how they are used in `SAD`:
 
+1. `Sequence Control`
+2. `Decision Control`
+3. `Looping Control`
+4. `Parallel Control`
+5. `Subprocess Control`
