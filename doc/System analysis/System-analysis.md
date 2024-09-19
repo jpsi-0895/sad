@@ -18,6 +18,10 @@ Some of the key aspects of system analysis are:
 
 System design is where the project’s `blueprint` is created. It involves transforming the requirements identified in the `analysis phase` into a visual solution.
 
+System Design is the process of creating a design for the `system to meet the requirements`. System design is the process of designing the architecture, components, modules, interfaces, and data for a system to satisfy the specified requirements. 
+
+It involves the design of the system architecture, components, modules, interfaces, and data.
+
 - Architecture design
 - Database configuration
 - Communication system
