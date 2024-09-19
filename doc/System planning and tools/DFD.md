@@ -18,3 +18,10 @@ It provides an overview of
 - What transformation are performed.
 - What data are stored.
 - What results are produced , etc.
+
+
+**SA/SD involves 2 phases:**
+
+- `Analysis Phase`: It uses Data Flow Diagram, `Data Dictionary`, State Transition diagram and ER diagram. 
+- `Design Phase`: It uses Structure Chart and Pseudo Code. 
+ 
